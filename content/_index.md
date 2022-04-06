@@ -3,7 +3,7 @@ title: Launch X Bitácora de viaje
 description: The harder i work the luckier I get. Me duermo temprano pero madrugo todos los días.
 ---
 
-Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartiré mis aventuras de Launch X.
+Hola ✌️  soy el explorer **Carlos Gerardo** y este es mi blog personal donde compartiré mis aventuras de Launch X.
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
