@@ -22,7 +22,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
     <li> Es honesto, a veces decir "no sé" es mejor, porque si no sabes puedes aprender, para aprender podemos pedir ayuda pero los mentirosos se estancan o avanzan lento o peor retrasan todo</li>
     <li>Confia en sus capacidades, confia en sus compañeros, confia en el proceso</li>
     <li>ayuda a otros para crecerlos pero tambien para ayudarse a si mismo, porque reconoce que mientras mas aprende a explicarle a otros mejor entiende lo que el mismo explica</li>
-    <li>Nunca para de aprender, no porque sea necesario, que a veces si lo es, pero lo hace principalmente porque lo disfruta. Un programador es un mago, un programador experto es todo un hechicero o tal vez como Dr. Strange el hechicero supremo y de el depende la continuidad del mundo programa</li>
+    <li>Nunca para de aprender, no porque sea necesario, que a veces si lo es, pero lo hace principalmente porque lo disfruta. Un programador es un mago, un programador experto es todo un hechicero o tal vez como Dr. Strange el hechicero supremo y de el depende la continuidad del mundo programa.</li>
 </ul>
 
 <p>Seguramente más tarde vendran más ideas pero ahora mismo me siento contento, soy lo que escribo y si aun no lo soy se que pronto lo aprendo.</p>
