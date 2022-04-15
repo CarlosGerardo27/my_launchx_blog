@@ -48,11 +48,11 @@ description: 'Primeros pasos con SASS'
 
 <ol>
     <li>
-        En el directorio donde creaste tu archivo de estilos de Sass procede a abrir la terminal, si no estas ahí cuando abras la terminal, solo tendrás que actualizar la ruta del directorio donde estas.
+        1. En el directorio donde creaste tu archivo de estilos de Sass procede a abrir la terminal, si no estas ahí cuando abras la terminal, solo tendrás que actualizar la ruta del directorio donde estas.
     </li>
     <br>
     <li>
-        Escribe el comando  <strong>sass</strong>  seguido de un <strong>—watch</strong>  con esto le estaremos diciendo al sistema que vigile un archivo de origen, para mi es styles.scss pero tu puedes ponerle el nombre que quieras, después vas a poner el nombre del archivo de salida, este nombre es el mismo que el archivo que estas importando en tu proyecto, porque lo que hace la compilación es tal cual tomar tu archivo SASS y transformarlo en un archivo simple de CSS. 
+        2. Escribe el comando  <strong>sass</strong>  seguido de un <strong>—watch</strong>  con esto le estaremos diciendo al sistema que vigile un archivo de origen, para mi es styles.scss pero tu puedes ponerle el nombre que quieras, después vas a poner el nombre del archivo de salida, este nombre es el mismo que el archivo que estas importando en tu proyecto, porque lo que hace la compilación es tal cual tomar tu archivo SASS y transformarlo en un archivo simple de CSS. 
     </li>
     <p>
         <code>
@@ -60,7 +60,7 @@ description: 'Primeros pasos con SASS'
         </code>
     </p>
     <li>
-        Presiona enter! y ahora estas listo, procede a escribir tus estilos en SASS para que puedas hacer uso de las características añadidas.
+        3. Presiona enter! y ahora estas listo, procede a escribir tus estilos en SASS para que puedas hacer uso de las características añadidas.
     </li>
 </ol>
 
