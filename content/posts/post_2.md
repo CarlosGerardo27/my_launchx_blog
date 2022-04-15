@@ -115,6 +115,7 @@ description: 'De lo andado lo aprendido'
 Por ejemplo supongamos que tenemos un elemento <strong> &lt; nav &gt; </strong>  que contiene varios elementos, en CSS normal nuestro CSS podría verse así, si es que decidimos dar estilos con los selectores. 
 
 <code>
+    
     nav ul {
     
         margin: 0;
@@ -149,6 +150,7 @@ Utilizando SASS, nuestro CSS puede simplificarse anidando elementos a razón de 
 
 
 <code>
+    
     nav {
     
       ul {
