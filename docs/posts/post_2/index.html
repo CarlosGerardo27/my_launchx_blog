@@ -125,7 +125,6 @@
 </p>
 <code>
     $font-stack: Helvetica**,** sans-serif;
-    <br>
     $primary-color: #333;
 </code>
 <p>
@@ -140,29 +139,19 @@
 <p>Por ejemplo supongamos que tenemos un elemento <strong> &lt; nav &gt; </strong>  que contiene varios elementos, en CSS normal nuestro CSS podría verse así, si es que decidimos dar estilos con los selectores.</p>
 <code>
     nav ul {
-        <br>
         margin: 0;
-        <br>
         padding: 0;
         <br>
         list-style: none;
-        <br>
       }
-      <br>
-      nav li {
-          <br>
-        display: inline-block;
-        <br>
-      }
-      <br>
-      nav a {
-          <br>
-<pre><code>    display: block;
-    &lt;br&gt;
+<pre><code>  nav li {
+    display: inline-block;
+  }
+  nav a {
+
+    display: block;
     padding: 6px 12px;
-    &lt;br&gt;
     text-decoration: none;
-    &lt;br&gt;
   }
 </code></pre>
 </code>
@@ -172,28 +161,18 @@
 <strong>&lt; li &gt;</strong>   dentro del elemento <strong>&lt; nav &gt; </strong>  , podría hacerlo con solo colocar el <strong>&lt; li &gt;</strong>  dentro de las llaves de este elemento padre.</p>
 <code>
     nav {
-        <br>
       ul {
-          <br>
         margin: 0;
-        <br>
         padding: 0;<br>
         list-style: none;
-        <br>
       }
-    <br>
       li { display: inline-block; } <br>
     <br>
       a {
-          <br>
         display: block;
-        <br>
         padding: 6px 12px;
-        <br>
         text-decoration: none;
-        <br>
       }
-      <br>
     }
 </code>
 <p>
