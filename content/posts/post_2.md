@@ -91,9 +91,11 @@ description: 'De lo andado lo aprendido'
 
 
 <code>
+    
     $font-stack: Helvetica**,** sans-serif;
     
     $primary-color: #333;
+    
 </code>
 
 <p>
