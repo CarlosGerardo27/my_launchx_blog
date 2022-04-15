@@ -125,7 +125,8 @@
 </p>
 <code>
     $font-stack: Helvetica**,** sans-serif;
-    $primary-color: #333;
+<pre><code>$primary-color: #333;
+</code></pre>
 </code>
 <p>
     Otra ventaja de usar variables pero no menos importante es que nos permite mantener la homogeneidad de los estilos en nuestro proyecto, ya que volver a los estilos principales será tan sencillo como llamar a la variable que los contiene.
@@ -139,18 +140,25 @@
 <p>Por ejemplo supongamos que tenemos un elemento <strong> &lt; nav &gt; </strong>  que contiene varios elementos, en CSS normal nuestro CSS podría verse así, si es que decidimos dar estilos con los selectores.</p>
 <code>
     nav ul {
-        margin: 0;
-        padding: 0;
-        <br>
-        list-style: none;
-      }
-<pre><code>  nav li {
-    display: inline-block;
+<pre><code>    margin: 0;
+    padding: 0;
+    &lt;br&gt;
+    list-style: none;
+
   }
+
+  nav li {
+
+    display: inline-block;
+
+  }
+
   nav a {
 
     display: block;
+
     padding: 6px 12px;
+
     text-decoration: none;
   }
 </code></pre>
@@ -161,19 +169,22 @@
 <strong>&lt; li &gt;</strong>   dentro del elemento <strong>&lt; nav &gt; </strong>  , podría hacerlo con solo colocar el <strong>&lt; li &gt;</strong>  dentro de las llaves de este elemento padre.</p>
 <code>
     nav {
-      ul {
-        margin: 0;
-        padding: 0;<br>
-        list-style: none;
-      }
-      li { display: inline-block; } <br>
-    <br>
-      a {
-        display: block;
-        padding: 6px 12px;
-        text-decoration: none;
-      }
-    }
+<pre><code>  ul {
+    margin: 0;
+    padding: 0;&lt;br&gt;
+    list-style: none;
+  }
+
+  li { display: inline-block; } 
+
+  a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+  }
+
+}
+</code></pre>
 </code>
 <p>
     Haciendo lo anterior nos ahorramos los valiosos minutos que supondría estar pensando en clases especificas o la dificultad que supone estar escribiendo los selectores específicos, también esta forma de trabajar supone un código más fácil de leer porque es muy claro comprender la jerarquia y por ende también la posición de un elemento dentro de la maqueta HTML.  
