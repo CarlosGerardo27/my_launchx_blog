@@ -1,7 +1,7 @@
 ---
 title: "Tirando estilos con SASS"
 date: 2022-04-15
-description: 'De lo andado lo aprendido'
+description: 'Primeros pasos con SASS'
 ---
 
 <h1>Tirando estilos con SASS</h1>
