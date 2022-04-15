@@ -92,7 +92,6 @@ description: 'De lo andado lo aprendido'
 
 <code>
     $font-stack: Helvetica**,** sans-serif;
-    <br>
     $primary-color: #333;
 </code>
 
@@ -114,30 +113,20 @@ Por ejemplo supongamos que tenemos un elemento <strong> &lt; nav &gt; </strong> 
 
 <code>
     nav ul {
-        <br>
         margin: 0;
-        <br>
         padding: 0;
         <br>
         list-style: none;
-        <br>
       }
-      <br>
+    
       nav li {
-          <br>
         display: inline-block;
-        <br>
       }
-      <br>
       nav a {
-          <br>
 
         display: block;
-        <br>
         padding: 6px 12px;
-        <br>
         text-decoration: none;
-        <br>
       }
 </code>
 
@@ -151,28 +140,18 @@ Utilizando SASS, nuestro CSS puede simplificarse anidando elementos a razón de 
 
 <code>
     nav {
-        <br>
       ul {
-          <br>
         margin: 0;
-        <br>
         padding: 0;<br>
         list-style: none;
-        <br>
       }
-    <br>
       li { display: inline-block; } <br>
     <br>
       a {
-          <br>
         display: block;
-        <br>
         padding: 6px 12px;
-        <br>
         text-decoration: none;
-        <br>
       }
-      <br>
     }
 </code>
 
